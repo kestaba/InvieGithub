@@ -1,2 +1,2 @@
 # InvieGithub
-Platzi - Curso profesional de Git y GitHub: Práctica.
+Platzi - Curso profesional de Git y GitHub: Práctica.  
